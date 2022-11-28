@@ -30,7 +30,8 @@ Write your own steps
 
 ## PROGRAM
 
-eveloped by: r nitish kumar
+```sh
+developed by: r nitish kumar
 Register no.: 212219220036
 from tensorflow import keras
 from tensorflow.keras import layers
@@ -106,6 +107,7 @@ plt.gray()
 ax.get_xaxis().set_visible(False)
 ax.get_yaxis().set_visible(False)
 plt.show()
+```
 
 ## OUTPUT
 ![image](https://user-images.githubusercontent.com/112503943/203128183-e9ba46cb-43dc-469f-9e9d-990c1b8c1272.png)
